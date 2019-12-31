@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuitCI3">
+ <test name="testCI31">
+ <classes>
+ <class name="PkgCI3.ClsCI31" />
+ </classes>
+ </test>
+</suite>
